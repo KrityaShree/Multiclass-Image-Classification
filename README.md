@@ -45,4 +45,11 @@ The project demonstrated the feasibility of implementing image classification sy
 ## Future Directions
 Future work could involve further experimentation with model architectures, data augmentation techniques, and optimization strategies to enhance accuracy and efficiency. Additionally, exploring larger datasets and advanced object detection methods could lead to more robust and versatile systems.
 
-  
+## Tools Used
+1. **Python:** The primary programming language for implementing the deep learning models, data preprocessing, and analysis.
+2. **TensorFlow and Keras:** Used for building, training, and evaluating deep neural network models, including both custom and pre-trained architectures.
+3. **PyTorch:** Explored for data preprocessing tasks and handling large datasets, providing alternative functionalities to TensorFlow.
+4. **ijson Library:** Employed for parsing and processing large JSON files, facilitating data exploration and understanding.
+5. **GitHub:** Leveraged for version control, collaboration among team members, and sharing project code and documentation.
+6. **Google Colab:** Utilized for running code on GPU-accelerated environments, enabling faster model training and experimentation.
+7. **Anaconda:** Used for managing Python environments and installing necessary packages and dependencies.
